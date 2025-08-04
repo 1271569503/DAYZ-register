@@ -1,9 +1,8 @@
-
+这是一个关于DAYZ登录器的 支持正版 盗版 服务器 
+项目QQ群 251320310
 <img width="1902" height="958" alt="image" src="https://github.com/user-attachments/assets/14884115-ee6f-4326-ad53-ceaa4ce7f27c" />
 
 <img width="1757" height="941" alt="image" src="https://github.com/user-attachments/assets/2c566d7e-59c7-4e11-a651-5a96c3ef3a45" />
-
-<img width="1757" height="941" alt="image" src="https://github.com/user-attachments/assets/56755141-b715-4121-a994-e7fe2f78f935" />
 
 <img width="1754" height="714" alt="image" src="https://github.com/user-attachments/assets/8aa9391d-36ab-4ede-a85f-517c9773c725" />
 
